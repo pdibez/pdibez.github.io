@@ -23,7 +23,6 @@ const prettyCodeOptions = {
 export default defineConfig({
   site: CONFIG.site.url,
   output: 'server',
-
   adapter: cloudflare(),
 
   vite: {
