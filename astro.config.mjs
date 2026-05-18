@@ -22,6 +22,7 @@ const prettyCodeOptions = {
 // https://astro.build/config
 export default defineConfig({
   site: CONFIG.site.url,
+  base: "pdibez.github.io",
   output: 'server',
   adapter: cloudflare(),
 
