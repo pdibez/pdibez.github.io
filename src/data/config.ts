@@ -5,7 +5,7 @@ export const CONFIG = {
   site: {
     url: "https://pdibez.github.io",
     locale: "es_AR",
-    twitterHandle: "@pdibez",
+    twitterHandle: "",
   },
 
   // ---------------------------------------------------------------------------
