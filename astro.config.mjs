@@ -22,11 +22,16 @@ const prettyCodeOptions = {
 // https://astro.build/config
 export default defineConfig({
   site: CONFIG.site.url,
+  base: 'pdibez.github.io',
   output: 'static',
-  adapter: cloudflare(),
+  //adapter: cloudflare(),
 
   vite: {
     plugins: [tailwindcss()],
+  },
+
+  build: {
+    assets: 'assets'
   },
 
   integrations: [
