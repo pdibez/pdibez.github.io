@@ -21,7 +21,7 @@ export const DATA = {
   summary:
     "Trabajé en entornos diversos como startups tecnológicas y retail de escala masiva. Lideré proyectos con impacto real, como plataformas de trámites digitales y sistemas  de pagos online. En mi etapa universitaria participé en distintos proyectos de investigación.",
   avatarUrl: "/picofme.jpg",
-  ogImage: "/og_image.png",
+  ogImage: "/preview.jpg",
   sections: {
     about: { order: 1, enabled: true, heading: "Sobre mí" },
     work: { order: 2, enabled: true, heading: "Experiencia Profesional", presentLabel: "Presente" },
