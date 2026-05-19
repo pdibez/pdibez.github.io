@@ -13,7 +13,7 @@ export const DATA = {
   name: "Pablo Dibez",
   nameTitle: "Pablo Dibez",
   initials: "PD",
-  url: "https://pablodibez.com",
+  url: "https://pdibez.github.io",
   location: "Astra, Chubut",
   locationLink: "https://www.google.com/maps/place/astra+argentina",
   description:
