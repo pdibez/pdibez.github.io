@@ -3,7 +3,7 @@ export const CONFIG = {
   // Site Settings
   // ---------------------------------------------------------------------------
   site: {
-    url: "https://pdibez.github.io",
+    url: "https://pablodibez.com",
     locale: "es_AR",
     twitterHandle: "",
   },
