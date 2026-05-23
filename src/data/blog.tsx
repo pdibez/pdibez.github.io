@@ -1,7 +1,7 @@
 export const DATA = {
   posts: [
     {
-      id: "hello-world",
+      id: "hola-mundo",
       data: {
         title: "Hola Mundo!",
         publishedAt: "2026-05-17",
