@@ -184,13 +184,26 @@ export const DATA = {
       dates: "2025",
       active: true,
       description:
-        "Membresía que te otorga beneficios exclusivos en todas tus compras presenciales en Jumbo y Disco, y/o en los sitios web Jumbo.com.ar y Disco.com.ar ",
+        "Membresía que te otorga beneficios exclusivos en todas tus compras presenciales en Jumbo y Disco, y/o en los sitios web Jumbo.com.ar y Disco.com.ar.",
       technologies: [
         "Oracle DB", "Oracle APEX", "PL/SQL",  
       ],
       links: [],
       image: "/projects/jumboprime.png",
     },
+    {
+      title: "Lilo",
+      href: "https://huggingface.co/pdibez/lilo-01",
+      dates: "2024",
+      active: true,
+      description:
+        'Modelo entrenado para la tesina "Personalización de un modelo text-to-image para la generación de imágenes con Inteligencia Artificial".',
+      technologies: [
+        "Python", "Stable Diffusion", "Dreambooth"
+      ],
+      links: [],
+      image: "/projects/lilo.jpg",
+    },    
     {
       title: "Validita",
       href: "https://app.validita.io",
