@@ -97,7 +97,7 @@ export const DATA = {
       start: "Noviembre 2023",
       end: undefined,
       description:
-        "Integré el equipo de desarrollo con la Gerencia de Innovación de Cencosud como colaborador; en el cual diseñé y desarrollé Jumbo Prime Argentina, incrementando la tasa de aceptación de cobros del 66% al 95%.",
+        "Integré el equipo de desarrollo de la Gerencia de Innovación de Cencosud como colaborador, en el cual diseñé y desarrollé Jumbo Prime Argentina; incrementando la tasa de aceptación de cobros de las membresías del 66% al 95%.",
     },
     {
       company: "Cognitlabs",
@@ -156,7 +156,7 @@ export const DATA = {
       logoUrl: "/work/unpsjb.png",
       start: "Septiembre 2011",
       end: "Noviembre 2011",
-      description: "Me desempeñé como pasante en el Laboratorio de Ensayos Industriales",
+      description: "Me desempeñé como pasante en el Laboratorio de Ensayos Industriales.",
     },
   ],
   education: [
@@ -184,13 +184,26 @@ export const DATA = {
       dates: "2025",
       active: true,
       description:
-        "Membresía que te otorga beneficios exclusivos en todas tus compras presenciales en Jumbo y Disco, y/o en los sitios web Jumbo.com.ar y Disco.com.ar ",
+        "Membresía que te otorga beneficios exclusivos en todas tus compras presenciales en Jumbo y Disco, y/o en los sitios web Jumbo.com.ar y Disco.com.ar.",
       technologies: [
         "Oracle DB", "Oracle APEX", "PL/SQL",  
       ],
       links: [],
       image: "/projects/jumboprime.png",
     },
+    {
+      title: "Lilo",
+      href: "https://huggingface.co/pdibez/lilo-01",
+      dates: "2024",
+      active: true,
+      description:
+        'Modelo entrenado para la tesina "Personalización de un modelo text-to-image para la generación de imágenes con Inteligencia Artificial".',
+      technologies: [
+        "Python", "Stable Diffusion", "Dreambooth"
+      ],
+      links: [],
+      image: "/projects/lilo.jpg",
+    },    
     {
       title: "Validita",
       href: "https://app.validita.io",
