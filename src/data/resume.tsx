@@ -97,7 +97,7 @@ export const DATA = {
       start: "Noviembre 2023",
       end: undefined,
       description:
-        "Integré el equipo de desarrollo con la Gerencia de Innovación de Cencosud como colaborador; en el cual diseñé y desarrollé Jumbo Prime Argentina, incrementando la tasa de aceptación de cobros del 66% al 95%.",
+        "Integré el equipo de desarrollo de la Gerencia de Innovación de Cencosud como colaborador, en el cual diseñé y desarrollé Jumbo Prime Argentina; incrementando la tasa de aceptación de cobros de las membresías del 66% al 95%.",
     },
     {
       company: "Cognitlabs",
@@ -156,7 +156,7 @@ export const DATA = {
       logoUrl: "/work/unpsjb.png",
       start: "Septiembre 2011",
       end: "Noviembre 2011",
-      description: "Me desempeñé como pasante en el Laboratorio de Ensayos Industriales",
+      description: "Me desempeñé como pasante en el Laboratorio de Ensayos Industriales.",
     },
   ],
   education: [
