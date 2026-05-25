@@ -218,6 +218,19 @@ export const DATA = {
       image: "/projects/validita.png",
     },
     {
+      title: "Vehicle Counter",
+      href: "",
+      dates: "2021",
+      active: true,
+      description:
+        "Solución de análisis de video con inteligencia artificial para gestión de tráfico en tiempo real mediante cámaras urbanas en la ciudad de Comodoro Rivadavia.",
+      technologies: [
+        "Python", "Deepstream", "Redis", "Node.js", "React.js", "Postgres",
+      ],
+      links: [],
+      image: "/projects/vehicle-counter.jpg",
+    },
+    {
       title: "ComodoroWeb",
       href: "https://www.comodoroweb.gob.ar",
       dates: "2020",
